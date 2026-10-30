@@ -15,11 +15,16 @@ TCS iON AI Hackathon prototype built with Streamlit.
 ## Files
 | File | Purpose |
 |---|---|
-| `app.py` | The whole app |
+| `app.py` | Screens and navigation (worker + supervisor) |
+| `utils/content.py` | Languages, UI text, safety lessons, quiz, emergency steps |
+| `utils/store.py` | Anonymous in-memory logging, demo seed data, announcement summarizer |
+| `utils/services.py` | Secrets, text-to-speech (gTTS), optional AI question (Gemini) |
 | `requirements.txt` | Python packages |
 | `.streamlit/config.toml` | Theme |
 | `.streamlit/secrets.toml.example` | Template for secrets (PIN, optional AI key) |
 | `.gitignore` | Keeps secrets and cache out of GitHub |
+
+To add a lesson or language, edit `utils/content.py` only.
 
 ## Run locally
 ```bash
