@@ -13,7 +13,7 @@
 
 <p align="center">
   <b><a href="https://surakshatalk-ai.streamlit.app/">▶ Live demo</a></b> &nbsp;·&nbsp;
-  <b><a href="YOUR_DEMO_VIDEO_LINK">🎥 Demo video</a></b> &nbsp;·&nbsp;
+  <b><a href="https://drive.google.com/file/d/1OVx5y23q8azOzTkJTvMfILL22iHv2MJB/view?usp=sharing">🎥 Demo video</a></b> &nbsp;·&nbsp;
   <b><a href="#-screens">📱 Screens</a></b>
 </p>
 
