@@ -12,7 +12,7 @@
 <h3 align="center">"Do you understand?" &nbsp;→&nbsp; "Yes." &nbsp;→&nbsp; <i>Nobody checked.</i></h3>
 
 <p align="center">
-  <b><a href="YOUR_LIVE_DEMO_LINK">▶ Live demo</a></b> &nbsp;·&nbsp;
+  <b><a href="https://surakshatalk-ai.streamlit.app/">▶ Live demo</a></b> &nbsp;·&nbsp;
   <b><a href="YOUR_DEMO_VIDEO_LINK">🎥 Demo video</a></b> &nbsp;·&nbsp;
   <b><a href="#-screens">📱 Screens</a></b>
 </p>
